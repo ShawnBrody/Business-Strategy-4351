@@ -1,0 +1,12 @@
+"AC Demand, Cost, and Margin",Year 5,Year 6,Year 7,Year 8,Year 9,Year 10,Year 11,Year 12,Year 13,Year 14,Year 15
+B Company,225,320,305,386,367,398,448,409,443,368,420
+Industry Average,225,248,243,262,258,267,280,271,281,262,277
+Models,3,4,5,5,4,3,2,2,1,4,3
+PQ Rating,4,5.4,5.2,5.5,6.2,6.5,6.8,7,7.2,6.6,6.8
+Industry P/Q Rating,4,4.5,4.5,4.6,4.9,5.1,5.2,5.3,5.5,5.4,5.5
+PQ Above Industry Average,0,0.2,0.156,0.196,0.265,0.275,0.308,0.321,0.309,0.222,0.236
+Operating Profit Margin,0.131,0.153,0.149,0.287,0.285,0.34,0.427,0.393,0.398,0.34,0.448
+Total Overall Market Share,0.25,0.327,0.344,0.252,0.28,0.31,0.323,0.364,0.249,0.373,0.321
+Actual Overall Demand,0.25,0.327,0.344,0.243,0.272,0.227,0.177,0.204,0.169,0.264,0.198
+Units Gained,0,0,0,0.009,0.008,0.083,0.146,0.16,0.08,0.109,0.123
+Product,AC Camera,AC Camera,AC Camera,AC Camera,AC Camera,AC Camera,AC Camera,AC Camera,AC Camera,AC Camera,AC Camera
